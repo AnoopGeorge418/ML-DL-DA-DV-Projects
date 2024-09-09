@@ -7,14 +7,6 @@ Welcome to the **ML And Analysis Projects** repository! This is a collection of 
 - [📚 Introduction](#-introduction)
 - [🧠 Algorithms and Projects](#-algorithms-and-projects)
   - [Linear Regression](#linear-regression)
-  - [Logistic Regression](#logistic-regression)
-  - [Decision Trees](#decision-trees)
-  - [Support Vector Machines (SVM)](#support-vector-machines-svm)
-  - [K-Nearest Neighbors (KNN)](#k-nearest-neighbors-knn)
-  - [Neural Networks](#neural-networks)
-  - [Clustering Algorithms](#clustering-algorithms)
-  - [Natural Language Processing (NLP)](#natural-language-processing-nlp)
-  - [Time Series Analysis](#time-series-analysis)
 - [🛠️ Skills You'll Gain](#-skills-youll-gain)
 - [🚀 How to Use This Repository](#-how-to-use-this-repository)
 - [📝 Contribution Guidelines](#-contribution-guidelines)
@@ -39,58 +31,6 @@ Below is the list of algorithms with links to their respective projects. Each pr
    Predicting stock prices using historical data and regression models.  
    **Skills:** Data visualization, time series analysis, model tuning.
 
-### 📉 Logistic Regression
-
-1. **[Project 1: Customer Churn Prediction](#link-to-repo)**  
-   Classification model to predict customer churn in a telecom dataset.  
-   **Skills:** Data balancing, feature selection, ROC-AUC analysis.
-
-2. **[Project 2: Diabetes Prediction](#link-to-repo)**  
-   Predicting the likelihood of diabetes using patient data.  
-   **Skills:** Model evaluation, confusion matrix, cross-validation.
-
-### 🌳 Decision Trees
-
-1. **[Project 1: Loan Approval Prediction](#link-to-repo)**  
-   A decision tree model to predict whether a loan should be approved or not.  
-   **Skills:** Tree pruning, feature importance, overfitting control.
-
-### ⚙️ Support Vector Machines (SVM)
-
-1. **[Project 1: Handwritten Digit Classification](#link-to-repo)**  
-   Classifying handwritten digits using SVM and image features.  
-   **Skills:** Feature scaling, kernel functions, model optimization.
-
-### 👥 K-Nearest Neighbors (KNN)
-
-1. **[Project 1: Iris Species Classification](#link-to-repo)**  
-   A classic KNN classification project using the Iris dataset.  
-   **Skills:** Distance metrics, normalization, K-value tuning.
-
-### 🧬 Neural Networks
-
-1. **[Project 1: Image Recognition with CNN](#link-to-repo)**  
-   Building a Convolutional Neural Network for image classification tasks.  
-   **Skills:** Deep learning, image preprocessing, backpropagation.
-
-### 🔍 Clustering Algorithms
-
-1. **[Project 1: Customer Segmentation](#link-to-repo)**  
-   Using K-means clustering to segment customers based on purchase behavior.  
-   **Skills:** Cluster analysis, silhouette score, data visualization.
-
-### 📝 Natural Language Processing (NLP)
-
-1. **[Project 1: Sentiment Analysis](#link-to-repo)**  
-   Analyzing the sentiment of customer reviews using NLP techniques.  
-   **Skills:** Text preprocessing, TF-IDF, sentiment classification.
-
-### 📅 Time Series Analysis
-
-1. **[Project 1: Sales Forecasting](#link-to-repo)**  
-   Forecasting future sales using ARIMA and other time series models.  
-   **Skills:** Time series decomposition, trend analysis, model evaluation.
-
 ## 🛠️ Skills You'll Gain
 
 - Data Preprocessing and Cleaning
@@ -100,6 +40,8 @@ Below is the list of algorithms with links to their respective projects. Each pr
 - Time Series Analysis
 - Natural Language Processing
 - Clustering and Dimensionality Reduction
+- NLP
+- CV
 
 ## 🚀 How to Use This Repository
 
