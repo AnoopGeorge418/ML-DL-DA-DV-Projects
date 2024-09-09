@@ -73,8 +73,8 @@ We welcome contributions! If you have a new project, improvement, or bug fix, pl
 For any questions or collaboration requests, feel free to reach out:
 
 - Email: anoopgeorge418@gmail.com
-- LinkedIn: (Anoop George)[https://www.linkedin.com/in/anoop-george418/]
-- Github - (Anoop George)[https://github.com/AnoopGeorge418]
+- LinkedIn: [Anoop George](https://www.linkedin.com/in/anoop-george418/)
+- Github - [Anoop George](https://github.com/AnoopGeorge418)
 
 ## 📜 License
 This repository is licensed under the MIT License. See the LICENSE file for more details.
