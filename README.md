@@ -6,7 +6,7 @@ Welcome to the **ML And Analysis Projects** repository! This is a collection of 
 
 - [📚 Introduction](#-introduction)
 - [🧠 Algorithms and Projects](#-algorithms-and-projects)
-  - [Linear Regression](#linear-regression)
+  - [Simple Linear Regression](#linear-regression)
 - [🛠️ Skills You'll Gain](#-skills-youll-gain)
 - [🚀 How to Use This Repository](#-how-to-use-this-repository)
 - [📝 Contribution Guidelines](#-contribution-guidelines)
@@ -21,15 +21,12 @@ This repository contains a curated list of machine learning projects categorized
 
 Below is the list of algorithms with links to their respective projects. Each project comes with a simple description and relevant skills that you will learn.
 
-### 🔍 Linear Regression
+### 🔍 Simple Linear Regression
 
-1. **[Project 1: Predicting House Prices](#link-to-repo)**  
-   A simple regression model to predict house prices based on various features.  
-   **Skills:** Data preprocessing, feature engineering, regression analysis, evaluation metrics.
+1. **[Project 1: Students Score Prediction](https://github.com/AnoopGeorge418/Students-Score-Prediction)**  
+   A simple regression model to predict students score based on various features.  
+   **Skills:** Data preprocessing, feature engineering, regression analysis, evaluation metrics...
 
-2. **[Project 2: Stock Price Prediction](#link-to-repo)**  
-   Predicting stock prices using historical data and regression models.  
-   **Skills:** Data visualization, time series analysis, model tuning.
 
 ## 🛠️ Skills You'll Gain
 
